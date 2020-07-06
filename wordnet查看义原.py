@@ -35,3 +35,5 @@
 
 from nlkt.corpus import wordnet as wn
 a = wn.synsets('升高')
+
+print('aaaa')
